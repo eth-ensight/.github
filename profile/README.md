@@ -73,7 +73,25 @@ ENSight blends:
 
 - Client-side interception  
 - Off-chain explainability & risk  
-- On-chain context & identity  
+- On-chain context & identity
+
+### ⛓️ On-Chain & Off-Chain Layers
+
+ENSight combines immutable blockchain truth with real-time intelligence:
+
+**On-Chain**
+- Transaction calldata & contract interactions  
+- ENS identity & wallet history  
+- Verifiable blockchain state  
+
+**Off-Chain**
+- Runtime interception context  
+- Risk heuristics & anomaly detection  
+- Trust & reputation signals  
+- Human-readable explanations  
+
+Together, ENSight shows not just what happens on-chain — but what it means before users sign.
+
 
 [⬆ Back to top](#top)
 
